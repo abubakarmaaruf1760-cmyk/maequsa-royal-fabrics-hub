@@ -1,2 +1,2 @@
 # maequsa-royal-fabrics-hub
-my Web app
+my Web fabrics app
